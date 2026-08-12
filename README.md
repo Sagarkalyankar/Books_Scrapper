@@ -18,13 +18,13 @@ A Python web scraping project that collects book information from Books to Scrap
 - Requests
 - BeautifulSoup4
 - SQLite
-- Regular Expressions
+
 
 ## Installation
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone Book_Scrapper
 
 Navigate into the project:
 
